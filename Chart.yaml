@@ -1,0 +1,9 @@
+apiVersion: v1
+name: nginx Application
+Version: 1.0.0
+Description: Install nginx server
+keywords:
+ - nginx
+mantainers:
+ - name: Jorge Rodriguez
+   email: jorge.rodriguez@outlook.es 
