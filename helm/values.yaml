@@ -11,4 +11,4 @@ resources:
     memory: 256Mi
 ServiceType: ClusterIP
 ServicePort: 8111
-ConfigMapData: "version:alpine"
+ConfigMapData: "version: alpine"
